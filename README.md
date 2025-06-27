@@ -1,3 +1,4 @@
+# Job_Portal
 # Jobify - Job Portal Web Application
 
 Jobify is a full-stack job portal web application built with React, Redux Toolkit, Tailwind CSS, and more. It allows job seekers to browse and apply for jobs, and recruiters to post job listings and manage applications.
